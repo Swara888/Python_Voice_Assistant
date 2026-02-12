@@ -1,4 +1,4 @@
-📝 Project Overview
+**📝 Project Overview**
 
 This project is a Basic Voice Assistant developed using Python as part of the AICTE OIB-SIP Internship at Oasis Infobyte.
 
@@ -6,15 +6,15 @@ The assistant listens to user voice commands and performs predefined tasks such 
 
 The project demonstrates the practical implementation of:
 
-🎤 Speech Recognition
+**🎤 Speech Recognition
 
 🔊 Text-to-Speech Conversion
 
 ⚙️ Command Processing
 
 🌐 Task Automation
-
-🚀 Features
+**
+**🚀 Features**
 
 Responds to greetings (Hello / Hi)
 
@@ -32,7 +32,7 @@ Handles basic errors gracefully
 
 Adjusts for ambient noise
 
-🎯 Objectives
+**🎯 Objectives**
 
 To understand how voice recognition works
 
@@ -44,7 +44,7 @@ To process user commands dynamically
 
 To implement basic exception handling
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 
 Python 3
 
@@ -60,7 +60,7 @@ sys
 
 time
 
-⚙️ Key Concepts Implemented
+**⚙️ Key Concepts Implemented**
 🔹 Speech Recognition
 
 The assistant uses Google Speech Recognition API to convert spoken words into text.
@@ -83,14 +83,14 @@ Internet connectivity issues
 
 Empty commands
 
-📂 Project Structure
+**📂 Project Structure**
 
 Voice_Assistant/
 │
 ├── voice_assistant.py
 ├── README.md
 
-▶️ How to Run the Project
+**▶️ How to Run the Project**
 1️⃣ Install Python
 
 Check Python version:
@@ -114,13 +114,13 @@ pipwin install pyaudio
 python voice_assistant.py
 
 
-Make sure:
+**Make sure:**
 
 Microphone is connected
 
 Internet connection is active
 
-🎤 Supported Voice Commands
+**🎤 Supported Voice Commands**
 Voice Command	Action Performed
 "hello" / "hi"	Greeting response
 "time"	Tells current time
@@ -128,28 +128,29 @@ Voice Command	Action Performed
 "search"	Performs Google search
 "open youtube"	Opens YouTube
 "exit" / "stop"	Closes the assistant
-📸 Screenshots
-🔹 Assistant Starting and Greeting Response
+
+
+**🔹 Assistant Starting and Greeting Response**
 
 <img width="827" height="312" alt="Screenshot 2026-02-12 211723" src="https://github.com/user-attachments/assets/03c844ec-ef2e-4ff3-86bf-908cf4118af8" />
 
 
-🔹 Time ,Date and Search Command Output
+**🔹 Time ,Date and Search Command Output**
 
 <img width="1134" height="525" alt="Screenshot 2026-02-12 211836" src="https://github.com/user-attachments/assets/cda80c51-d162-4c1d-81d7-a4c01fc10b0c" />
 
 
-🔹 Open Youtube Execution
+**🔹 Open Youtube Execution**
 
 <img width="676" height="303" alt="Screenshot 2026-02-12 211856" src="https://github.com/user-attachments/assets/f14a699a-8b3a-4982-8273-b896865a314f" />
 
 
-🎥 Project Demonstration
+**🎥 Project Demonstration**
 
 🔗 LinkedIn Video Demo:
-(Add your LinkedIn video link here)
 
-📚 Learning Outcomes
+
+**📚 Learning Outcomes**
 
 Through this project, I gained hands-on experience in:
 
@@ -163,7 +164,7 @@ Writing modular and structured code
 
 Handling runtime errors effectively
 
-🌱 Future Enhancements
+**🌱 Future Enhancements**
 
 Add weather updates using API integration
 
@@ -175,8 +176,9 @@ Integrate NLP for improved understanding
 
 Allow custom command personalization
 
-📜 Conclusion
+**📜 Conclusion**
 
 The Voice Assistant project successfully demonstrates basic voice interaction and automation using Python. It provides foundational understanding of speech processing and real-time command execution.
 
 This project was completed as part of the AICTE OIB-SIP Python Programming Internship at Oasis Infobyte.
+
