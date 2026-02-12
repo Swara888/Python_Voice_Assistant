@@ -7,14 +7,15 @@ The assistant listens to user voice commands and performs predefined tasks such 
 
 The project demonstrates the practical implementation of:
 
-**🎤 Speech Recognition
+🎤 Speech Recognition
 
 🔊 Text-to-Speech Conversion
 
 ⚙️ Command Processing
 
 🌐 Task Automation
-**
+
+
 **🚀 Features**
 
 Responds to greetings (Hello / Hi)
@@ -33,6 +34,7 @@ Handles basic errors gracefully
 
 Adjusts for ambient noise
 
+
 **🎯 Objectives**
 
 To understand how voice recognition works
@@ -45,21 +47,23 @@ To process user commands dynamically
 
 To implement basic exception handling
 
+
 **🛠️ Technologies Used**
 
-Python 3
+* Python 3
 
-speech_recognition
+* speech_recognition
 
-pyttsx3
+* pyttsx3
 
-datetime
+* datetime
 
-webbrowser
+* webbrowser
 
-sys
+* sys
 
-time
+* time
+
 
 **⚙️ Key Concepts Implemented**
 🔹 Speech Recognition
@@ -84,12 +88,14 @@ Internet connectivity issues
 
 Empty commands
 
+
 **📂 Project Structure**
 
 Voice_Assistant/
 │
 ├── voice_assistant.py
 ├── README.md
+
 
 **▶️ How to Run the Project**
 1️⃣ Install Python
@@ -120,6 +126,7 @@ python voice_assistant.py
 Microphone is connected
 
 Internet connection is active
+
 
 **🎤 Supported Voice Commands**
 Voice Command	Action Performed
@@ -165,6 +172,7 @@ Writing modular and structured code
 
 Handling runtime errors effectively
 
+
 **🌱 Future Enhancements**
 
 Add weather updates using API integration
@@ -177,10 +185,12 @@ Integrate NLP for improved understanding
 
 Allow custom command personalization
 
+
 **📜 Conclusion**
 
 The Voice Assistant project successfully demonstrates basic voice interaction and automation using Python. It provides foundational understanding of speech processing and real-time command execution.
 
 This project was completed as part of the AICTE OIB-SIP Python Programming Internship at Oasis Infobyte.
+
 
 
