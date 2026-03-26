@@ -157,10 +157,9 @@ python voice_assistant.py
 
 ---
 
-## 🎥 Project Demonstration
-
-🔗 **LinkedIn Video Demo:**  
-(Add your LinkedIn video link here)
+## Testing & Validation
+- Verified command recognition accuracy.
+- Handled edge cases such as empty commands or noise interruptions.
 
 ---
 
